@@ -1,0 +1,5 @@
+# Keeping venv files off those sweet github servers
+
+/lib
+/bin
+pyvenv.cfg
